@@ -9,7 +9,7 @@
 
 ## 1. Executive Summary & Personal Takeaways
 
-Reading through **TrueGradeAI**, my biggest takeaway is that it bridges a major gap in digital education: **how to eliminate paper waste and grading bias without forcing students to give up natural handwriting.** 
+Reading through **TrueGradeAI**, it bridges a major gap in digital education: **how to eliminate paper waste and grading bias without forcing students to give up natural handwriting.** 
 
 Most previous digital exam tools either replace handwriting with typing (which doesn't work well for equations, diagrams, or open-ended essays) or simply store digitized PDFs for manual grading without helping teachers. TrueGradeAI builds a full end-to-end pipeline: students write with a stylus on locked tablets, AI transcribes their strokes using vision transformers, a **Dual Retrieval-Augmented Generation (RAG)** engine cross-checks answers against verified faculty keys and textbooks, and an LLM provides a score along with a **fact-linked explanation**.
 
